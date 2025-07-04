@@ -1,0 +1,21 @@
+{
+  "name": "LocaGuide",
+  "short_name": "LocaGuide",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ff5722",
+  "description": "Discover hidden gems and top spots in your city with trusted local recommendations.",
+  "icons": [
+    {
+      "src": "./images/l.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./images/l.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
