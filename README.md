@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/845e6f85-20f3-43be-a46c-4229cfb288e4)# LocaGuide 🌍
+# LocaGuide 🌍
+![image](https://github.com/user-attachments/assets/845e6f85-20f3-43be-a46c-4229cfb288e4)
 
 **Discover the best of your city — trusted recommendations for restaurants, hotels, shopping, attractions, and more.**
 ![image](https://github.com/user-attachments/assets/5dad5df6-6efd-4cf6-a1dc-bc00d6ce971b)
